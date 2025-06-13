@@ -1,0 +1,4 @@
+aiohttp
+rich
+tldextract
+python-whois
